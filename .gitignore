@@ -13,3 +13,7 @@
 # directories
 bin/
 build/
+example.exe
+example_x64.exe
+assets/
+.vs/
